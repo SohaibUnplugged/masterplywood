@@ -1,0 +1,28 @@
+{
+  "name": "master-plywood",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "check:seo": "node scripts/check-seo.mjs",
+    "import:catalogues": "python scripts/import_catalogues.py"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "@playwright/test": "latest"
+  }
+}

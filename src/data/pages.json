@@ -1,0 +1,30 @@
+{
+  "/": {
+    "title": "Master Plywood | Designs in Wazirabad, Gujranwala Shop",
+    "description": "Explore ZRK, KMI and MECATA designs at Master Plywood in Wazirabad, Gujranwala. Search article codes and visit our shop opposite High Class Bakers."
+  },
+  "/catalogue": {
+    "title": "Plywood Design Catalogue | ZRK, KMI & Master Plywood",
+    "description": "Browse the Master Plywood catalogue of ZRK, KMI and MECATA designs. Filter by brand, search design names and codes, and zoom in to explore each texture."
+  },
+  "/catalogue/zrk": {
+    "title": "ZRK Plywood Designs & Catalogue | Master Plywood Shop",
+    "description": "Explore ZRK catalogue designs at Master Plywood. Browse individual textures, view larger images, find design codes and open the original PDF catalogue."
+  },
+  "/catalogue/kmi": {
+    "title": "KMI Plywood Designs & Catalogue | Master Plywood Shop",
+    "description": "Explore KMI catalogue designs at Master Plywood. Browse individual textures, view larger images, find design codes and open the original PDF catalogue."
+  },
+  "/catalogue/mecata": {
+    "title": "MECATA Plywood Designs & Catalogue | Master Plywood Shop",
+    "description": "Explore MECATA catalogue designs at Master Plywood. Browse individual textures, view larger images, check design details and open the original PDF catalogue."
+  },
+  "/about": {
+    "title": "About Master Plywood | Meet Owner Hafiz Rizwan Akram",
+    "description": "Meet Hafiz Rizwan Akram, owner of Master Plywood since August 2020. See our shop and explore ZRK, KMI and MECATA designs on Sialkot Road, Wazirabad."
+  },
+  "/contact": {
+    "title": "Visit Master Plywood | Sialkot Road, Wazirabad Shop",
+    "description": "Call or WhatsApp Master Plywood on +92 332 8302554. Visit us opposite High Class Bakers, Mohallah Haji Pura, Sialkot Road, Gujranwala Wazirabad."
+  }
+}
