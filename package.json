@@ -12,17 +12,17 @@
     "import:catalogues": "python scripts/import_catalogues.py"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "next": "^16.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   },
   "devDependencies": {
-    "@types/node": "latest",
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
-    "typescript": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "latest",
-    "@playwright/test": "latest"
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^6.0.3",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.0",
+    "@playwright/test": "^1.64.0"
   }
 }
